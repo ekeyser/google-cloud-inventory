@@ -1,4 +1,4 @@
-cloud-inventory
+gcp-inventory
 ========
 
 #### Google Cloud Platform Infrastructure Inventory ####
